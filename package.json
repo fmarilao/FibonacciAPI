@@ -7,15 +7,13 @@
     "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fmarilao/fibonacciAPI.git"
-  },
+  "keywords": [
+    "API",
+    "REST",
+    "NodeJS",
+    "FibonacciAPI"
+  ],
   "author": "Facundo Marilao",
-  "bugs": {
-    "url": "https://github.com/fmarilao/fibonacciAPI/issues"
-  },
-  "homepage": "https://github.com/fmarilao/FibonacciAPI#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
